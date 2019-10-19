@@ -1,3 +1,5 @@
+[![Snap Status](https://build.snapcraft.io/badge/simos/doh.svg)](https://build.snapcraft.io/user/simos/doh)
+
 # doh
 
  A libcurl-using application that resolves a host name using DNS-over-HTTPS
